@@ -1,0 +1,6 @@
+{
+  "name": "Quest Leveling",
+  "description": "A responsive Solo Leveling inspired fantasy-RPG fitness quest app with daily quests, water tracker, and progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
